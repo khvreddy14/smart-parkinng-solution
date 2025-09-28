@@ -95,22 +95,22 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-muted-foreground text-sm">
                 <Mail className="h-4 w-4" />
-                <span>support@smartpark.com</span>
+                <span>nextgen@coders.com</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground text-sm">
                 <Phone className="h-4 w-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 8985600437</span>
               </li>
               <li className="flex items-start gap-2 text-muted-foreground text-sm">
                 <MapPin className="h-4 w-4 mt-0.5" />
-                <span>123 Tech Street, Silicon Valley, CA 94025</span>
+                <span>517102 mohan babu university tirupathi andhra pradesh</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>© 2024 SmartPark. All rights reserved.</p>
+          <p>© 2025 SmartPark. All rights reserved.</p>
         </div>
       </div>
     </footer>
