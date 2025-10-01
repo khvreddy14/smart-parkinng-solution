@@ -34,22 +34,22 @@ export default function About() {
 
   const team = [
     {
-      name: "Harsha Vardhan",
+      name: "Sarah Chen",
       role: "CEO & Founder",
       image: "https://ui-avatars.com/api/?name=Sarah+Chen&background=3b82f6&color=fff"
     },
     {
-      name: "Bhuvanesh",
+      name: "Michael Rodriguez",
       role: "CTO",
       image: "https://ui-avatars.com/api/?name=Michael+Rodriguez&background=3b82f6&color=fff"
     },
     {
-      name: "Prathap",
+      name: "Emily Johnson",
       role: "Head of Operations",
       image: "https://ui-avatars.com/api/?name=Emily+Johnson&background=3b82f6&color=fff"
     },
     {
-      name: "Rupesh",
+      name: "David Kim",
       role: "Head of Product",
       image: "https://ui-avatars.com/api/?name=David+Kim&background=3b82f6&color=fff"
     }
